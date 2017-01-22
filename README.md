@@ -1,5 +1,7 @@
 ## AWS Lambda bins API
 
+[![Build Status](https://travis-ci.org/aws-lambda-bins/api-node.svg?branch=master)](https://travis-ci.org/aws-lambda-bins/api-node)
+
 A setup tools for aws-lambda-bins.
 
 ## Usage
